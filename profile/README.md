@@ -5,7 +5,7 @@
 
 ### Important info & Links
 
-- [Manifest](https://github.com/ShrayukiProject/manifest)
+- [Manifest](https://github.com/ShirayukiProject/manifest)
 - [Device sources](https://github.com/yukiprjkt)
 - [Official Devices](https://yuki.itzkaguya.my.id)
 - [Telegram](https://t.me/yukiprjkt)
